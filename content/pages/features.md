@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Laboratorio di Antonella
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: 'Prodotti da forno da grani antichi'
     align: center
   - type: features_section
     features:
