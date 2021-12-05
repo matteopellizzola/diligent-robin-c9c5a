@@ -28,7 +28,7 @@
             {
                 "label": "Sentiamoci",
                 "url": "/contact",
-                "style": "primary"
+                "style": "link"
             }
         ]
     },
